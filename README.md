@@ -1,1 +1,1 @@
-# STIEIFoorOrderingClerkAPP
+# STIEIFoodOrderingClerkAPP
