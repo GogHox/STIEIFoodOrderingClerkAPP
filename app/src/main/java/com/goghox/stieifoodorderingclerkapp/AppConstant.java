@@ -10,4 +10,7 @@ public class AppConstant {
     public static final int MSG_SET_ORDER_SERVED_SUCC = 2;
     public static final int MSG_UPDATE_COMBO_VIEW = 3;
     public static final int MSG_SET_COMBO_AVAILABLE_SUCC = 4;
+
+    public static String name;
+    public static String token;
 }
