@@ -20,7 +20,7 @@ import okhttp3.Response;
 
 public class NetworkUtils {
     public static OkHttpClient httpClient = new OkHttpClient();
-    public static final String URL_ROOT = "http://192.168.124.132:8080";
+    public static final String URL_ROOT = "http://192.168.1.101:8080";
     private static String TAG = "TAG";
 
     public static String getOrderList() throws IOException {
